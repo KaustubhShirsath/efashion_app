@@ -1,4 +1,4 @@
-# efashionapp
+# e-fashion app
 
 This is an e-commerce application made in flutter(dart).
 
